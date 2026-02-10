@@ -67,7 +67,7 @@ Tech_Advertising_Campaigns_EDA/
   - **Data Manipulation:** Pandas, NumPy
   - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Environment:** Jupyter Notebook
-- **Data Source:** [Kaggle – YouTube Trending Videos](https://www.kaggle.com/datasets/juniornsa/digital-advertising-campaign-performance-dataset)
+- **Data Source:** [Kaggle – Digital Advertising Campaign Performance](https://www.kaggle.com/datasets/juniornsa/digital-advertising-campaign-performance-dataset)
 
 ---
 
