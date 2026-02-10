@@ -92,7 +92,7 @@ Analyzing trends in YouTube videos can help marketers, content creators, and res
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/TejasMJ/Youtube_Trending_Videos_EDA.git
+git clone https://github.com/TejasMJ/Tech_Advertising_Performance_EDA.git
 cd Google_Play_Store_EDA
 ```
 
