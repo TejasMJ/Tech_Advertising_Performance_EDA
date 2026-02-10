@@ -22,7 +22,7 @@ The project folder is organized as follows:
 
 ```text
 Tech_Advertising_Campaigns_EDA/
-├── campaigns.csv                      # Dataset of tech advertising campaigns
+├── tech_advertising_dataset.csv                      # Dataset of tech advertising campaigns
 ├── Tech_Advertising_Campaigns_EDA.ipynb  # Jupyter Notebook with full EDA
 ├── requirements.txt                   # Python dependencies
 └── venv/                              # Virtual environment
