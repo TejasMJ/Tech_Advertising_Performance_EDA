@@ -8,7 +8,7 @@ A comprehensive **Exploratory Data Analysis (EDA)** on tech advertising campaign
 
 ### Core Features
 - **Data Cleaning & Preprocessing:** Handling type conversions.
-- **Campaign Insights:** Analyze platform concentration, impressions, clicks, conversions, ROAS, and CPA.
+- **Campaign Insights:** Analyze platform concentration, impressions, clicks, conversions, ROAS and CPA.
 - **Creative & Engagement Analysis:** Explore CTR, conversion rate, and creative emotion effectiveness.
 - **Audience Targeting & Intent:** Evaluate performance across age groups, purchase intent, and audience interests.
 - **Funnel Performance:** Track impressions → clicks → conversions → profitability.
